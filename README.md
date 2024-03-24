@@ -12,6 +12,11 @@ Técnica em Eletrotécnica (IFRN), Bacharel em Ciências e Tecnologia (UFRN) e a
     <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucinaramelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<h2>👩🏻‍💻 Experiência</h2>
+### Tutora | UFRN | Março 2023 - Presente
+
+Como membro da equipe de tutoria da UFRN, auxilio os alunos ingressantes no curso de Ciências e Tecnologia nas disciplinas de primeiro semestre, incluindo Lógica de Programação, Matemática Básica e Modelagem e Álgebra Matricial e Vetorial. 
+
 <h2>⚡ Tecnologias</h2>
 
 <div style="display: inline_block"><br>
