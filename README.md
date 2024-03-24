@@ -13,7 +13,7 @@ Técnica em Eletrotécnica (IFRN), Bacharel em Ciências e Tecnologia (UFRN) e a
 </div>
 
 <h2>👩🏻‍💻 Experiência</h2>
-### Tutora | UFRN | Março 2023 - Presente
+<h4>Tutora | UFRN | Março 2023 - Presente</h4>
 
 Como membro da equipe de tutoria da UFRN, auxilio os alunos ingressantes no curso de Ciências e Tecnologia nas disciplinas de primeiro semestre, incluindo Lógica de Programação, Matemática Básica e Modelagem e Álgebra Matricial e Vetorial. 
 
