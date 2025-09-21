@@ -13,9 +13,15 @@ Técnica em Eletrotécnica (IFRN), Bacharel em Ciências e Tecnologia (UFRN) e a
 </div>
 
 <h2>👩🏻‍💻 Experiência</h2>
-<h4>Tutora | UFRN | Março 2023 - Presente</h4>
 
-Como membro da equipe de tutoria da UFRN, auxilio os alunos ingressantes no curso de Ciências e Tecnologia nas disciplinas de primeiro semestre, incluindo Lógica de Programação, Matemática Básica e Modelagem e Álgebra Matricial e Vetorial. 
+<h4>Estagiária de Desenvolvimento Web | Simples Meios de Pagamento | 2025 - Presente</h4>
+Acompanhamento no desenvolvimento de programas e software. Suporte à equipe de desenvolvimento interno, contribuindo para a implementação e manutenção de soluções web.
+
+<h4>Bolsista de Apoio à Pesquisa | NPAD - IMD/UFRN | 2025 - Presente</h4>
+Atuo oferecendo suporte técnico a usuários do Núcleo de Processamento de Alto Desempenho (NPAD), desenvolvendo scripts para automação de processos, acompanhando experimentos, propondo soluções, organizando e mantendo repositórios com tutoriais e materiais de apoio, além de atuar também no desenvolvimento web.
+
+<h4>Tutora | UFRN | Março 2023 - 2025</h4>
+Como membro da equipe de tutoria da UFRN, auxilio os alunos ingressantes no curso de Ciências e Tecnologia nas disciplinas de primeiro semestre, incluindo Lógica de Programação, Matemática Básica e Modelagem e Álgebra Matricial e Vetorial.
 
 <h2>⚡ Tecnologias</h2>
 
