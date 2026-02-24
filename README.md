@@ -7,12 +7,11 @@ Técnica em Eletrotécnica (IFRN), Bacharela em Ciências e Tecnologia (UFRN) e 
 ##
 
 <div align="center">
-  <img height="180em" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jucinaramelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jucinaramelo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <a href="https://github.com/jucinaramelo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jucinaramelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucinaramelo&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>>
 
 <h2>👩🏻‍💻 Experiência</h2>
 
