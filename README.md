@@ -13,6 +13,11 @@ Técnica em Eletrotécnica (IFRN), Bacharela em Ciências e Tecnologia (UFRN) e 
   </a>
 </div>
 
+<div align="center">
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=jucinaramelo&theme=dracula&hide_border=true" />
+</div>
+
 <h2>👩🏻‍💻 Experiência</h2>
 
 <h4>Estagiária de Desenvolvimento Web | Simples Meios de Pagamento | 2025 - Presente</h4>
