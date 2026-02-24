@@ -2,15 +2,16 @@
 
 > Apaixonada por resolver problemas através da programação
 
-Técnica em Eletrotécnica (IFRN), Bacharel em Ciências e Tecnologia (UFRN) e atualmente sou graduanda em Engenharia de Computação (UFRN). Minha paixão pela tecnologia vai além da teoria, buscando sempre aplicar meus conhecimentos de forma prática. Pronta para enfrentar desafios e contribuir para inovações no campo da ciência e tecnologia. Estou sempre atualizada e motivada para seguir avançando nesse ambiente dinâmico.
+Técnica em Eletrotécnica (IFRN), Bacharela em Ciências e Tecnologia (UFRN) e atualmente sou graduanda em Engenharia de Computação (UFRN). Minha paixão pela tecnologia vai além da teoria, buscando sempre aplicar meus conhecimentos de forma prática. Pronta para enfrentar desafios e contribuir para inovações no campo da ciência e tecnologia. Estou sempre atualizada e motivada para seguir avançando nesse ambiente dinâmico.
 
 ##
 
 <div align="center">
-  <a href="https://github.com/jucinaramelo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jucinaramelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucinaramelo&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="180em" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jucinaramelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jucinaramelo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <h2>👩🏻‍💻 Experiência</h2>
