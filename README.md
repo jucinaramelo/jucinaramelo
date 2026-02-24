@@ -14,8 +14,9 @@ Técnica em Eletrotécnica (IFRN), Bacharela em Ciências e Tecnologia (UFRN) e 
 </div>
 
 <div align="center">
-  <img height="180em"
-       src="https://streak-stats.demolab.com?user=jucinaramelo&theme=dracula&hide_border=true&locale=pt" />
+  <img
+    src="https://streak-stats.demolab.com?user=jucinaramelo&theme=github-dark-blue&hide_border=true&locale=pt&date_format=n%2Fj%5B%2FY%5D"
+  />
 </div>
 
 <h2>👩🏻‍💻 Experiência</h2>
